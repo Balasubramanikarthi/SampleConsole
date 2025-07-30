@@ -58,7 +58,33 @@ namespace SampleConsole
             int c = a + b;
             Console.WriteLine();
             Console.Write("The Addition Answer Is :"+c);
-            Console.WriteLine();  /*Practice The Project*/
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+        }
+        public void Dynamic2()
+        {
+            Console.WriteLine("Enter The First And Second Numbers:");
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            int c = a + b;
+            int d = a - b;
+            int e = a * b;
+            int f = a / b;
+            int g = a % b;
+            Console.WriteLine("Addition:"+c);
+            Console.WriteLine();
+            Console.WriteLine("Subtraction:"+d);
+            Console.WriteLine();
+            Console.WriteLine("Multiplication:"+e);
+            Console.WriteLine();
+            Console.WriteLine("Division:"+f);
+            Console.WriteLine();
+            Console.WriteLine("Modulus:"+g);
+            Console.WriteLine();
+
         }
         
     }

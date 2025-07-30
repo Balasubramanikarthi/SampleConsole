@@ -13,6 +13,7 @@ namespace SampleConsole
             maths.Division();
             maths.Modulus();
             maths.Dynamic();
+            maths.Dynamic2();
 
         }
     }
