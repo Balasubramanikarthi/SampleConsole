@@ -58,7 +58,7 @@ namespace SampleConsole
             int c = a + b;
             Console.WriteLine();
             Console.Write("The Addition Answer Is :"+c);
-            Console.WriteLine();
+            // Console.WriteLine();  /*Practice The Project*/
         }
         
     }
