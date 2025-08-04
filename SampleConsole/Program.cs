@@ -1,4 +1,5 @@
 ﻿using System;
+using ComputerClass;
 
 namespace SampleConsole
 {
@@ -15,8 +16,10 @@ namespace SampleConsole
             //maths.Dynamic();
             //maths.Dynamic2();
 
-            Assignmentoperation assign = new Assignmentoperation();
-            assign.Assign();
+            //Assignmentoperation assign = new Assignmentoperation();
+            //assign.Assign();
+
+            new ClassMembers().Member();
 
 
         }
