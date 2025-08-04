@@ -60,8 +60,6 @@ namespace SampleConsole
             Console.Write("The Addition Answer Is :"+c);
             Console.WriteLine();
             Console.WriteLine();
-
-
         }
         public void Dynamic2()
         {
