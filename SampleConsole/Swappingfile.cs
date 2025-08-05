@@ -20,7 +20,15 @@ namespace SampleConsole
             Console.WriteLine(b);*/
 
             Swapp2();
-            
+
+           /* int a = 10;
+            int b = 30;
+            a = b = a + b;
+            b = a - b;
+            b = a + b;
+            Console.WriteLine(a);
+            Console.WriteLine(b);*/
+
         }
 
         public void Swapp2 ()
