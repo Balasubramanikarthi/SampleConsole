@@ -19,7 +19,10 @@ namespace SampleConsole
            // Assignmentoperation assign = new Assignmentoperation();
             //assign.Assign();
 
-            new ClassMembers().Member();
+           // new ClassMembers().Member();
+
+           new Swappingfile().Swapp();
+           
 
 
         }
