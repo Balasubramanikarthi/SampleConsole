@@ -21,8 +21,16 @@ namespace SampleConsole
 
            // new ClassMembers().Member();
 
-           new Swappingfile().Swapp();
-           
+          // new Swappingfile().Swapp();
+
+            new Aritmeticwork2().Maths();
+
+            Console.WriteLine(3-8+5*2-3*2);
+            Console.WriteLine();
+            Console.WriteLine(3 - 8 +( 5 * 2) - (3 * 2));
+
+
+
 
 
         }
